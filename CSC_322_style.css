@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+}
+
+h1{
+    color: white;
+}
+
+main{
+    padding: 20px;
+    position: absolute;
+    left: 40%;
+    margin-top: -50px;
+    margin-left: -50px;
+    height: 100%;
+    background-color: #77777f; 
+    border-radius: 40px;
+    margin-top: 20px;
+    align: center;
+    text-align: center;
+}
+table{
+    align: center;
+}
+
+#submit{
+    background-color: blue;
+}
+
+#reset{
+    background-color: green;
+}
+
+body{
+    background: 'C:\\Users\\hp\\Desktop\\IMG-2017.jpg';
+}
